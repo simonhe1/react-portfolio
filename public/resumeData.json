@@ -111,6 +111,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Full Stack Whatsapp Clone",
+        "category": "Whatsapp Clone with user authentication and message tracking",
+        "image": "whatsapp-clone.png",
+        "url": "https://whatsapp-clone-670e6.web.app/"
+      },
+      {
         "title": "Amazon Ecommerce Clone",
         "category": "Amazon Clone with full ecommerce functionality and user authentication",
         "image": "amazon-clone.png",

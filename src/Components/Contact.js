@@ -20,7 +20,20 @@ const Contact = ({ data }) => {
     await axios({
       method: "post",
       url: `/email?from=${email}to=${defaultEmail}subject=${subject}text=${message}`,
-    });
+    })
+      .then((res) => {
+        setName("");
+        setSubject("");
+        setEmail("");
+        setMessage("");
+      })
+      .catch((err) => {
+        console.log(`didn't run wtf`);
+        setName("");
+        setSubject("");
+        setEmail("");
+        setMessage("");
+      });
   };
 
   return (
