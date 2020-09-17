@@ -123,6 +123,12 @@
         "url": "https://clone-8bfdb.web.app/"
       },
       {
+        "title": "Google Clone",
+        "category": "Google Clone with actual google searching functionality",
+        "image": "google-clone.png",
+        "url": "https://clone-90f6b.web.app/"
+      },
+      {
         "title": "TikTok Clone",
         "category": "TikTok Clone with firebase deployment",
         "image": "tiktok-clone.png",
