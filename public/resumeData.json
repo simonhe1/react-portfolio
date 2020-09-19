@@ -111,6 +111,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone that allows users to select date ranges",
+        "image": "airbnb-clone.png",
+        "url": "https://airbnb-clone-ad5d3.web.app/"
+      },
+      {
         "title": "Full Stack Whatsapp Clone",
         "category": "Whatsapp Clone with user authentication and message tracking",
         "image": "whatsapp-clone.png",
