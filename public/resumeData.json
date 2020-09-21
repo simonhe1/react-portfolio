@@ -135,6 +135,12 @@
         "url": "https://clone-90f6b.web.app/"
       },
       {
+        "title": "Zoom Clone",
+        "category": "Zoom Clone with sockets for realtime video feedback",
+        "image": "zoom-clone.png",
+        "url": "https://simon-zoom-clone.herokuapp.com/"
+      },
+      {
         "title": "TikTok Clone",
         "category": "TikTok Clone with firebase deployment",
         "image": "tiktok-clone.png",
